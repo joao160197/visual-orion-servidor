@@ -1,0 +1,7 @@
+/**
+ * logistico service
+ */
+
+import { factories } from '@strapi/strapi';
+
+export default factories.createCoreService('api::logistico.logistico');

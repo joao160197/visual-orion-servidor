@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_blocks_info_blocks",
+  "info": {
+    "displayName": "info Block"
+  },
+  "options": {},
+  "attributes": {
+    "reversed": {
+      "type": "boolean",
+      "default": true
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "headline": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  },
+  "config": {}
+}

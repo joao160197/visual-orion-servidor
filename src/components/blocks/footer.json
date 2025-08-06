@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_blocks_footers",
+  "info": {
+    "displayName": "footer"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "title1": {
+      "type": "string"
+    },
+    "text1": {
+      "type": "string"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "text2": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
